@@ -29,6 +29,7 @@
 - [Bill Buchanan](https://www.yyesoftware.com)
 - [Ernest Lee](https://github.com/leeer812)
 - [Jordan Matthews](https://github.com/jordan-matthews-98)
+- [Isaac Kumi](https://github.com/isaackumi)
 - [Charlie Ramirez](https://github.com/Monsterous915)
 - [Chathura Gunasekara](https://github.com/cjgunase)
 - [Rahul Ranjan](https://github.com/workrahul22)
